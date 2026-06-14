@@ -1,0 +1,6 @@
+{
+  "name": "Ma Sói 1 Đêm",
+  "description": "Trò chơi Ma Sói Một Đêm (One Night Ultimate Werewolf) Việt Hóa với đầy đủ chức năng phân vai trò, đêm thức dậy và bầu chọn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
